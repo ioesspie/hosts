@@ -42,3 +42,4 @@ do
 done < "$hosts_file"
 
 exit 0
+Lupascu Eduardo Stefan
